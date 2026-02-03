@@ -1,0 +1,39 @@
+# 🧪 TEST DOSYALARI KLASÖRÜ
+
+## 📁 BU KLASÖRE NE YÜKLENECEK?
+1. **STL dosyaları** - Test parçaları
+2. **G-code çıktıları** - Üretilen kodlar
+3. **Makine fotoğrafları** - CNC'de işlenmiş halleri
+4. **Test raporları** - Sonuçlar ve notlar
+
+## 🎯 TEST SENARYOLARI
+### Senaryo 1: Basit Kontur
+- Parça: 100x50mm dikdörtgen
+- İşlem: Dış kontur frezeleme
+- Beklenen: Temiz kenarlar, doğru boyutlar
+
+### Senaryo 2: Delik Matkap
+- Parça: 4 delikli plaka
+- İşlem: Ø8mm delikler
+- Beklenen: Merkezden delikler, temiz geçiş
+
+### Senaryo 3: Cep İşleme
+- Parça: İçi boş kutu
+- İşlem: Cep frezeleme
+- Beklenen: Düz taban, dik kenarlar
+
+## 📝 TEST YÖNERGELERİ
+1. **STL'yi SolidWorks'te oluşturun**
+2. **TurCAM AI ile G-code üretin**
+3. **Mach3'te yükleyip çalıştırın**
+4. **Sonuçları fotoğraflayın**
+5. **Buraya rapor ekleyin**
+
+## 👤 TEST SORUMLUSU
+**Yunus Emre KÖSE**
+- Email: kose44006@gmail.com
+- CNC Makine: [Marka/Model buraya yazın]
+- Mach3 Sürüm: [Sürüm buraya yazın]
+
+---
+*Testler başladı: 02 Şubat 2024*

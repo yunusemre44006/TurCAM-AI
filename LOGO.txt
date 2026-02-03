@@ -1,0 +1,18 @@
+TURCAM AI LOGO TASARIMI
+
+██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██
+██  TURCAM AI   ██
+██  ⚙️🤖🏭   ██
+██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██
+
+RENK PALETİ:
+- Ana renk: #0066CC (Türk mavisi)
+- İkinci renk: #FF6600 (Turuncu)
+- Arka plan: #F0F0F0 (Açık gri)
+
+SLOGAN: "Çiz, AI Halleder!"
+
+VERSİYON: 0.1.0 ALPHA
+
+KURUCU: Yunus Emre KÖSE
+TARİH: 02.02.2024
